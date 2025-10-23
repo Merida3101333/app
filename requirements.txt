@@ -1,5 +1,7 @@
 streamlit>=1.36
 pandas
+numpy
+plotly>=5.18
 folium>=0.17
 streamlit-folium>=0.22
 branca
